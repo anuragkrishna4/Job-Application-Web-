@@ -2,24 +2,24 @@ This repository contains a simple job application web page built using HTML and 
 
 Features are :-
 
-Input Fields:
+  Input Fields:
+  
+    First Name
+    
+    Last Name
+    
+    Email
+    
+    Job Role
+    
+    Address
+    
+    City
+    
+    Pincode
+    
+    Date
+    
+    Upload Your CV
 
-First Name
-
-Last Name
-
-Email
-
-Job Role
-
-Address
-
-City
-
-Pincode
-
-Date
-
-Upload Your CV
-
-Responsive Design: The layout adjusts to different screen sizes for a better user experience.
+  Responsive Design: The layout adjusts to different screen sizes for a better user experience.
